@@ -1,7 +1,5 @@
-# Polymorphism-Composition-Homework
 
-What does the word 'polymorphism' mean?
----
+---What does the word 'polymorphism' mean?
 
 What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 
